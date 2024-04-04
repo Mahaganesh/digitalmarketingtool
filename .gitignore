@@ -1,0 +1,7 @@
+*.log
+env/
+client_secret.json
+dev-alphaadventise-146bed0eac8b.json
+dev-alphaadventise-340706-a41d2385bd68.json
+sendgrid.env
+test.py
