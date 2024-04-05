@@ -6,7 +6,7 @@ class Configuration(BaseConfig):
     POSTGRES = {
     'user': 'postgres',
     'pw': '080797', 
-    'db': 'alpha',
+    'db': 'digitalmarketingtool',
     'host': 'localhost',
     'port': '5432',
     'ssl': ''
