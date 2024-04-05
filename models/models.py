@@ -13,9 +13,7 @@ from models import Base, engine
 import bcrypt
 import uuid
 
-Base = declarative_base(bind=engine)
-
-
+# Base = declarative_base()
 
 class User(Base):
 
